@@ -4,7 +4,7 @@ Maintained by: Lisette Walberer (@lisette.walberer)
 
 ---
 
-## About This Guide
+## About this guide
 
 This style guide is for the product team at Instructure. It includes writing guidelines that help us create a clear and consistent user experience.
 
@@ -12,9 +12,9 @@ Questions or additions? Visit the #ux-writing-help Slack channel and complete th
 
 ---
 
-## Voice and Tone
+## Voice and tone
 
-### Voice (Always the Same)
+### Voice (always the same)
 
 Our "voice" is the verbal demonstration of our brand character. It shows up everywhere we do — from our site to our ads to our keynote speeches — and it aligns with our company values:
 
@@ -37,7 +37,7 @@ Human beings want to hear from other human beings. We use contractions where peo
 
 ---
 
-### Tone (Changes with Context)
+### Tone (changes with context)
 
 If "voice" is our personality or character, then "tone" is our mood. While we always speak in the same voice, we often adjust our tone so that it's appropriate to the user's needs and emotional state.
 
@@ -56,9 +56,9 @@ We consider these factors to decide the right tone:
 
 ---
 
-## Writing for Everyone
+## Writing for everyone
 
-### Plain Language
+### Plain language
 
 We write in a way that helps people take the next best step quickly. Using plain language helps a wider audience understand and use a product.
 
@@ -115,7 +115,7 @@ We write in a way that helps people take the next best step quickly. Using plain
 
 ---
 
-### Inclusive Language
+### Inclusive language
 
 We believe all of our customers deserve respect and hospitality. We use inclusive language to help promote dignity, enhance communication, and combat discrimination and bias.
 
@@ -142,7 +142,7 @@ We believe all of our customers deserve respect and hospitality. We use inclusiv
 | Feature off/deactivated | Feature disabled |
 | In the menu, before, next, [specific language] | On the left, above, below, here |
 
-**Race and Culture:**
+**Race and culture:**
 
 | Do | Don't |
 |----|-------|
@@ -172,14 +172,14 @@ We believe all of our customers deserve respect and hospitality. We use inclusiv
 
 ---
 
-## Grammar and Mechanics
+## Grammar and mechanics
 
 ### Acronyms
 - Spell out unusual acronyms on first use with the acronym in parentheses. Use only the acronym thereafter.
 - Exception: Skip spelling out if users definitely already know it.
 - Time zones: Use the three-letter abbreviation with a space before it (e.g., "8 am CST")
 
-### Active vs. Passive Voice
+### Active vs. passive voice
 - **Default: active voice** — subject performs the action
 - **Use passive voice when:** avoiding blame on the user or system, or putting users in the spotlight
 
@@ -192,7 +192,7 @@ We believe all of our customers deserve respect and hospitality. We use inclusiv
 ### Addresses
 Abbreviate addresses as much as possible.
 
-### Alt Text
+### Alt text
 Write alt text for: images/icons/buttons/graphics, chart data, audio/video descriptions, form labels.
 
 Rules:
@@ -239,11 +239,11 @@ Only use for truncation.
 - Never more than once per page
 - Never to replace a word
 
-### Exclamation Marks
+### Exclamation marks
 - Only in moments of celebration
 - Never more than once per page
 
-### First vs. Third Person
+### First vs. third person
 - **Default in product:** first-person plural ("We're working on a solution.")
 - **Third person OK for:** brand copy, legal copy, help center content, references to Instructure in relation to customers/products
 
@@ -272,7 +272,7 @@ Only use for truncation.
 |----|-------|
 | Get started: 1. Create an account 2. Confirm your email 3. Adjust your preferences | Get started by visiting the website, creating an account, and adjusting your preferences. |
 
-### Oxford Comma
+### Oxford comma
 Always use.
 - ✅ Collaborate, innovate, and succeed.
 - ❌ Collaborate, innovate and succeed.
@@ -298,7 +298,7 @@ Always use.
 - Ranges within one year: year only at end — `Feb 21–Feb 22, 2025`
 - Ranges across years: year in both dates
 
-### Phone Numbers
+### Phone numbers
 Format: `xxx-xxx-xxxx` — link whenever possible.
 
 ### Time
@@ -323,7 +323,7 @@ Use only at end of complete sentences. Don't use in:
 ### Semicolons
 Never use. Use an em dash instead or rewrite the sentence.
 
-### Text Formatting
+### Text formatting
 - **Bold:** To emphasize a point or reference navigation
 - *Italics:* Not used in product (OK in marketing/longform)
 - Underline: Links only
@@ -332,9 +332,9 @@ Never use. Use an em dash instead or rewrite the sentence.
 
 ---
 
-## Common Content
+## Common content
 
-### Emails
+### Smails
 - Total length: under 150 words
 - Paragraphs: one topic, no more than 4 lines (~50 words)
 - Use subheaders and bulleted lists for complex info
@@ -348,13 +348,13 @@ Never use. Use an em dash instead or rewrite the sentence.
 | CTA | Always include at least one. Subject line + header + CTA alone should convey the main message. |
 | Footer | Optional secondary CTA. Always include: business address, unsubscribe link, app download links. |
 
-### Legal Disclaimers
+### Legal disclaimers
 - Serious tone
 - Max 4 lines on mobile
 - Include a link to a resource for more information
 - Work with legal on what's required in the UI
 
-### Push and SMS Notifications
+### Push and SMS notifications
 - Under 90 characters
 - Time-sensitive, actionable messages only
 - Send push first; only send SMS if notifications are off
@@ -364,7 +364,7 @@ Never use. Use an em dash instead or rewrite the sentence.
 | Header | One line. Main message. Occasional emoji for celebratory. |
 | Body | Max 3 lines. Indicate where user will navigate on click-through. |
 
-### Calls-to-Action (Buttons and Links)
+### Calls-to-action (buttons and links)
 
 **Rules:**
 - Sentence case (unless proper noun)
@@ -385,7 +385,7 @@ Never use. Use an em dash instead or rewrite the sentence.
 | Start free trial | Try it now! |
 | Set reminder | Set a reminder |
 
-### Errors and Alerts
+### Errors and alerts
 
 **Principles:**
 - Explain what happened and what to do next
