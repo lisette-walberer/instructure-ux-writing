@@ -268,6 +268,10 @@ Only use for truncation.
 - Only end items with periods if the item is a complete sentence
 - Use numbered lists when order matters
 
+| Do | Don't |
+|----|-------|
+| Get started: 1. Create an account 2. Confirm your email 3. Adjust your preferences | Get started by visiting the website, creating an account, and adjusting your preferences. |
+
 ### Oxford Comma
 Always use.
 - ✅ Collaborate, innovate, and succeed.
@@ -400,13 +404,5 @@ Never use. Use an em dash instead or rewrite the sentence.
 |----|-------|
 | The payment failed. Double-check your information and try again. | AUTH ERROR: We weren't able to process your payment. |
 | Incorrect password | You entered the wrong password. |
-
----
-
-## Preferred Terms
-
-*[Coming soon — check the Google Site for updates]*
-
----
 
 *Questions? Slack @lisette.walberer or visit the #ux-writing-help channel.*
