@@ -1,0 +1,24 @@
+You are working in the canonical Instructure UX writing repository, maintained by Lisette Walberer.
+
+Before writing or reviewing any copy, read `references/style-guide.md`. It is the source of truth for Instructure voice, tone, grammar, and mechanics. If anything in another file conflicts with the style guide, the style guide wins.
+
+When the user asks for help with copy, route to the right skill:
+- Writing or generating new copy → run `skills/write-microcopy.md`
+- Reviewing or auditing existing copy → run `skills/tone-check.md`
+
+If no skill matches, read the style guide, ask for context (UI pattern, audience, journey stage, space constraints), then apply the style guide rules.
+
+Hard rules:
+- Sentence case in headers, labels, and buttons
+- Oxford comma always
+- Never use semicolons
+- Active voice by default — passive only to avoid blaming the user
+- Use contractions
+- No exclamation points except in celebratory moments
+- No "click" in CTAs
+- No generic CTAs like "Learn more" or "Submit" — use action verb plus noun
+- Plain language: under 25 words per sentence, 8th grade reading level
+
+All AI-generated copy must be reviewed by a human writer before shipping. Tell the user this in your output. If they're unsure, recommend `#ux-writing-help` on Slack.
+
+If the style guide doesn't cover a scenario, apply the closest rule and flag the gap. Don't make up rules.
